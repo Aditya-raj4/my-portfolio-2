@@ -210,6 +210,9 @@ a {
         flex-direction: column-reverse;
         background-color: #2b2c38;
     }
-
+    .logo{
+        display:none
+        
+    }
 
 }
